@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Econtact", "Econtact.csproj", "{3D15A23C-6717-45F3-AA54-7F8ED5E332DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D15A23C-6717-45F3-AA54-7F8ED5E332DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D15A23C-6717-45F3-AA54-7F8ED5E332DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D15A23C-6717-45F3-AA54-7F8ED5E332DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D15A23C-6717-45F3-AA54-7F8ED5E332DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E59E6FE7-E7DC-40D9-BCA9-233E42A269B9}
+	EndGlobalSection
+EndGlobal
